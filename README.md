@@ -8,46 +8,38 @@
 ---
 
 ## Project structure
-
+```text
 purchasebehaviour_dashboard/
 ├── README.md
-│
+├── .gitignore
 ├── data/
 │   ├── raw/
 │   │   └── purchasebehaviour_data.xlsx
-│   │
 │   └── processed/
 │       └── purchasebehaviour_processeddata.xlsx
-│
-├── reports/
-│   └── purchasebehaviour_dashboard.xlsx
-│
 ├── docs/
 │   ├── purchasebehaviour_dashboard.png
-│   │
-│   ├── visualisations/
-│   │   ├── revenue_bycategory.png
-│   │   ├── revenue_byseason.png
-│   │   ├── revenue_bypaymentmethod.png
-│   │   ├── revenue_byfrequency.png
-│   │   └── revenue_bylocation.png
-│   │
 │   ├── dataset_description.md
-│   └── workflow_notes.md
-│
-└── .gitignore
+│   ├── workflow_notes.md
+│   └── visualisations/
+│       ├── revenue_bycategory.png
+│       ├── revenue_byseason.png
+│       ├── revenue_byfrequency.png
+│       ├── revenue_bylocation.png
+│       └── revenue_bypaymentmethod.png
+└── reports/
+    └── purchasebehaviour_dashboard.xlsx
+```
 
 ## Project resources
 
-The original dataset used for this analysis is stored in: [data/raw/purchasebehaviour_data.xlsx](data/raw/purchasebehaviour_data.xlsx)
-
-The cleaned and transformed dataset (used to build the dashboard) is available here: [data/processed/purchasebehaviour_processeddata.xlsx](data/processed/purchasebehaviour_processeddata.xlsx)
- 
-The Excel analysis and dashboard can be downloaded from: [reports/purchasebehaviour_dashboard.xlsx](reports/purchasebehaviour_dashboard.xlsx)
+The original dataset used for this analysis is stored in: [data/raw/purchasebehaviour_data.xlsx](data/raw/purchasebehaviour_data.xlsx)  
+The cleaned and transformed dataset (used to build the dashboard) is available here: [data/processed/purchasebehaviour_processeddata.xlsx](data/processed/purchasebehaviour_processeddata.xlsx)  
+The Excel analysis and dashboard can be downloaded from: [reports/purchasebehaviour_dashboard.xlsx](reports/purchasebehaviour_dashboard.xlsx)  
 
 Additional documentation  
 - Dataset description: [docs/dataset_description.md](docs/dataset_description.md)  
-- Workflow notes: [docs/workflow_notes.md](docs/workflow_notes.md)
+- Workflow notes: [docs/workflow_notes.md](docs/workflow_notes.md)  
 
 All charts used in the dashboard are stored in: [docs/visualisations/](docs/visualisations/)  
 
