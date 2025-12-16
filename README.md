@@ -1,4 +1,4 @@
-# Customer behavior analysis (summary ver)
+# Shobi customer behaviour analysis (summary ver)
 
 **Timeframe:** 21 January 2023 – 21 July 2024  
 **Location:** United States  
@@ -33,15 +33,15 @@ purchasebehaviour_dashboard/
 
 ## Project resources
 
-The original dataset used for this analysis is stored in: [data/raw/purchasebehaviour_data.xlsx](data/raw/purchasebehaviour_data.xlsx)  
-The cleaned and transformed dataset (used to build the dashboard) is available here: [data/processed/purchasebehaviour_processeddata.xlsx](data/processed/purchasebehaviour_processeddata.xlsx)  
-The Excel analysis and dashboard can be downloaded from: [reports/purchasebehaviour_dashboard.xlsx](reports/purchasebehaviour_dashboard.xlsx)  
+The original dataset used for this analysis is stored in: [here](data/raw/purchasebehaviour_data.xlsx)  
+The cleaned and transformed dataset is available [here](data/processed/purchasebehaviour_processeddata.xlsx)  
+The Excel analysis and dashboard can be downloaded [here](reports/purchasebehaviour_dashboard.xlsx)  
 
 Additional documentation  
-- Dataset description: [docs/dataset_description.md](docs/dataset_description.md)  
-- Workflow notes: [docs/workflow_notes.md](docs/workflow_notes.md)  
+- Dataset deécription [here](docs/dataset_description.md)  
+- Workflow notes [here](docs/workflow_notes.md)  
 
-All charts used in the dashboard are stored in: [docs/visualisations/](docs/visualisations/)  
+All charts used in the dashboard are stored [here](docs/visualisations/)  
 
 ## Dashboard overview
 
@@ -56,7 +56,7 @@ The final Excel dashboard combines KPIs, charts, and slicers into a single inter
 
 ## Executive summary
 
-This project provides an end-to-end analysis of online purchasing behavior for a U.S. e-commerce retailer. The aim is to identify the factors driving sales performance, customer satisfaction, and repeat purchases over an 18-month period. The analysis examines how elements such as seasonality, product categories, payment methods, and purchase frequency influence overall sales trends. The final result is an interactive dashboard that helps management make informed decisions about marketing strategies and inventory planning.
+This project provides an analysis of online purchasing behavior for a simulated US e-commerce retailer called Shobi. The aim is to identify the factors driving sales performance, customer satisfaction, and repeat purchases over an 18-month period. The analysis examines how elements such as seasonality, product categories, payment methods, and purchase frequency influence overall sales trends.
 
 Below is a summary of findings and recommendations.
 
@@ -64,7 +64,7 @@ Below is a summary of findings and recommendations.
 
 ## Business context
 
-The fictional e-commerce store sells Clothing, Footwear, Accessories, and Outerwear nationwide.  
+The simulated US e-commerce retailer called Shobi sells Clothing, Footwear, Accessories, and Outerwear nationwide.  
 Like most online retailers, it faces challenges in customer retention, seasonal fluctuations, and payment experience satisfaction.
 
 Business questions included:
