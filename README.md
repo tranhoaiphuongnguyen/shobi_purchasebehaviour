@@ -38,7 +38,7 @@ The cleaned and transformed dataset is available [here](data/processed/purchaseb
 The Excel analysis and dashboard can be downloaded [here](reports/purchasebehaviour_dashboard.xlsx)  
 
 Additional documentation  
-- Dataset deécription [here](docs/dataset_description.md)  
+- Dataset description [here](docs/dataset_description.md)  
 - Workflow notes [here](docs/workflow_notes.md)  
 
 All charts used in the dashboard are stored [here](docs/visualisations/)  
