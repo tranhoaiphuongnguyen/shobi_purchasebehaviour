@@ -33,7 +33,7 @@ purchasebehaviour_dashboard/
 
 ## Project resources
 
-The original dataset used for this analysis is stored in: [here](data/raw/purchasebehaviour_data.xlsx)  
+The original dataset used for this analysis is stored [here](data/raw/purchasebehaviour_data.xlsx)  
 The cleaned and transformed dataset is available [here](data/processed/purchasebehaviour_processeddata.xlsx)  
 The Excel analysis and dashboard can be downloaded [here](reports/purchasebehaviour_dashboard.xlsx)  
 
